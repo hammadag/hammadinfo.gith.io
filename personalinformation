@@ -1,0 +1,111 @@
+<html>
+<head>
+<title>
+Personal Information
+</title>
+
+</head>
+
+<body style="background-color:lightblue;" > 
+
+<center>
+     
+      <b>
+      
+        <h1>
+           Personal Information
+       </h1>    
+   
+</b>
+
+</center>
+    
+<img src="hammad.jpg" align="center" width=300 height=300 >
+<h2>About Me</h2>
+            <p>
+			Hi, I am Hammad Arshad .I'm a student of software engineering and a web developer.
+            </p>
+			
+			<h2>
+    <b>
+        
+            Personal Information
+        
+    </b>
+</h2>
+
+
+       <li>	Name:  Hammad Arshad												</li>
+	  <li>	Reg#:  3875/FBAS/BSSE/F18(A)												</li>
+      <li>	Contact Number:		03027126721													</li>
+      <li>	Date of Birth:		01,03, 2000.												</li>
+      <li>	Permanent Address:  B7 Muslim Town Muhamadi Colony Rawalpindi		</li>
+      <li>	E-mail Addresses:<a href=hammadarshad884@gmail.com>hammadarshad884@gmail.com    </a></li>
+                   
+      <li>	Religion: Islam.																	</li>
+      <li>	Nationality:		Pakistani.														</li>
+      											
+
+<h2>
+    
+        
+             Skills
+        
+    
+</h2>
+
+
+    <ul> 
+        
+
+        <li>
+            C++.
+        </li>
+		<li>
+            Java.
+        </li>
+
+        <li>
+            HTML, CSS, JavaScript.
+        </li>
+
+        <li>
+            WordPress.
+        </li>
+
+        <li>
+            MS-Office.
+        </li>
+
+			
+           
+    <h2>Academic Qualification</h2>
+        <table>
+                <tr>
+                    <th>Degree</th>
+                    <th>Obtained Marks</th>
+                    <th>Total Marks</th>
+                </tr>
+                <tr>
+                    <td>Matric</td>
+                    <td>865</td>
+                    <td>1100</td>
+                </tr>
+                <tr>
+                    <td>FSc pre-engineering</td>
+                    <td>792</td>
+                    <td>1100</td>
+                </tr>
+                <tr>
+                    <td>BSSE (In progress)</td>
+                    <td>3.01</td>
+                    <td>4</td>
+                </tr>
+            </table>
+      
+			
+			
+</body>
+
+
+</html>

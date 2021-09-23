@@ -1,1 +1,0 @@
-# hammadinfo.gith.io
